@@ -2,18 +2,3 @@
 Please don't be mean i really want the grades uwu
 
 are you sure?
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-
-</body>  
-<script type="module" src="https://unpkg.com/@splinetool/viewer@1.9.82/build/spline-viewer.js"></script>
-<spline-viewer url="https://prod.spline.design/y2SJTZrX6V9GR81F/scene.splinecode"></spline-viewer>
-</html>
-
